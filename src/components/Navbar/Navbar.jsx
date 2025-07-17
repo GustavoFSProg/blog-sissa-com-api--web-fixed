@@ -149,6 +149,7 @@ const FotoRosto = styled.div`
   align-items: center;
   justify-content: center;
   flex-direction: column;
+  margin-left: -72px;
 
   @media screen and (max-width: 800px) {
     margin-left: 250px;
